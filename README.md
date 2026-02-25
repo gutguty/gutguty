@@ -1,6 +1,6 @@
-### 👋 Привет! Я Богдан Гутый
+### 👋 Привет! Я Богдан
 
-**Frontend/Fullstack-разработчик** из России 🧊
+**Frontend/Fullstack-разработчик**
 
 🏢 Студент Южного федерального университета (3 курс)  
 🔥 Пишу код на TypeScript и React  
@@ -21,7 +21,7 @@
 ### 🏆 Достижения
 
 - 🥈 **Хакатон Cyber Garden 2024 Software** — разработал БД на SQLAlchemy для нейросети  
-- 🥈 **Хакатон Cyber Garden 2025 Hardware** — создал WiFi точку доступа и веб-сервис для датчиков  
+- 🥉 **Хакатон Cyber Garden 2025 Hardware** — создал WiFi точку доступа и веб-сервис для датчиков  
 - 🥉 **Хакатон Осень 2025 (Южный ИТ-форум, ДГТУ)** — интеграция Яндекс Карт API и ML-модели для оптимизации маршрутов  
 
 ---
@@ -53,9 +53,7 @@
 
 **Инструменты**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 **Другие технологии**  
@@ -74,14 +72,10 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theycallmegutiy)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdan.gutyy@mail.ru)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gutguty)
-[![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+79897136082)
 
 ---
 
 ### 📄 Резюме
 
-👉 **[Скачать мое резюме в PDF](https://docs.google.com/document/d/1iw1-LnDiatkUJeGXOI9RGAobNbmsnqFy/edit?usp=drive_link)** 👈
+👉 **[Скачать мое резюме в WORD](https://docs.google.com/document/d/1iw1-LnDiatkUJeGXOI9RGAobNbmsnqFy/edit?usp=drive_link)** 👈
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gutguty&show_icons=true&theme=radical)
