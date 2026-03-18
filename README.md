@@ -1,15 +1,15 @@
-### 👋 Привет! Я Богдан
+### Привет! Я Богдан
 
 **Frontend/Fullstack-разработчик**
 
-🏢 Студент Южного федерального университета (3 курс)  
-🔥 Пишу код на TypeScript и React  
-🎓 Участник хакатонов Cyber Garden, Южный ИТ-форум  
-✈️ Связаться со мной: [@theycallmegutiy](https://t.me/theycallmegutiy)
+Студент Южного федерального университета (3 курс)  
+Пишу код на TypeScript и React  
+Участник хакатонов Cyber Garden, Южный ИТ-форум  
+Связаться со мной: [@theycallmegutiy](https://t.me/theycallmegutiy)
 
 ---
 
-### 🚀 Мои проекты
+### Мои проекты
 
 | Проект | Описание | Стек |
 |--------|----------|------|
@@ -18,7 +18,7 @@
 
 ---
 
-### 🏆 Достижения
+### Достижения
 
 - 🥈 **Хакатон Cyber Garden 2024 Software** — разработал БД на SQLAlchemy для нейросети  
 - 🥉 **Хакатон Cyber Garden 2025 Hardware** — создал WiFi точку доступа и веб-сервис для датчиков  
@@ -67,7 +67,7 @@
 
 ---
 
-### 📫 Контакты
+### Контакты
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/theycallmegutiy)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bogdan.gutyy@mail.ru)
@@ -75,7 +75,7 @@
 
 ---
 
-### 📄 Резюме
+### Резюме
 
-👉 **[Скачать мое резюме в WORD](https://docs.google.com/document/d/1iw1-LnDiatkUJeGXOI9RGAobNbmsnqFy/edit?usp=drive_link)** 👈
+**[Скачать мое резюме в WORD](https://docs.google.com/document/d/1iw1-LnDiatkUJeGXOI9RGAobNbmsnqFy/edit?usp=drive_link)**
 
