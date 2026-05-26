@@ -39,6 +39,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
@@ -80,4 +81,4 @@
 
 ### Резюме
 
-**[Скачать моё резюме в WORD](https://docs.google.com/document/d/101iagBo7ZVy4CSe9o2IjKoUIGD6Mmxwa/edit?usp=sharing&ouid=114448229830365625135&rtpof=true&sd=true)**
+**[Скачать моё резюме в WORD](https://drive.google.com/file/d/1KbNVEQuaJrJZpM9BSlMOVodBdw07jZ-x/view?usp=sharing)**
