@@ -19,9 +19,9 @@
 
 ### Достижения
 
-- **Хакатон Cyber Garden 2024 Software** — разработал БД на SQLAlchemy для нейросети
-- **Хакатон Cyber Garden 2025 Hardware** — создал WiFi точку доступа и веб-сервис для датчиков
-- **Хакатон Осень 2025 (Южный ИТ-форум, ДГТУ)** — интеграция Яндекс Карт API и ML-модели для оптимизации маршрутов
+- **Хакатон Cyber Garden 2024 Software** - разработал БД на SQLAlchemy для нейросети
+- **Хакатон Cyber Garden 2025 Hardware** - создал WiFi точку доступа и веб-сервис для датчиков
+- **Хакатон Осень 2025 (Южный ИТ-форум, ДГТУ)** - интеграция Яндекс Карт API и ML-модели для оптимизации маршрутов
 
 ---
 
@@ -81,4 +81,4 @@
 
 ### Резюме
 
-**[Скачать моё резюме в WORD](https://drive.google.com/file/d/1KbNVEQuaJrJZpM9BSlMOVodBdw07jZ-x/view?usp=sharing)**
+**[Скачать моё резюме](https://drive.google.com/file/d/1KbNVEQuaJrJZpM9BSlMOVodBdw07jZ-x/view?usp=sharing)**
